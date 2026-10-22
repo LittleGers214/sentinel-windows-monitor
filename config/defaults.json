@@ -1,0 +1,6 @@
+{
+  "interval": 5,
+  "retention_days": 30,
+  "notifications": true,
+  "failed_logins": {"threshold": 5, "window_seconds": 60}
+}
